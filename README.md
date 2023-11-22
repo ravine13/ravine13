@@ -4,7 +4,8 @@
 
 💡 I firmly believe in the power of collaboration and open-source. Currently exploring various projects and technologies, my passion lies in backend development and all things data-related.
 
-🌟 Let's connect and collaborate on coding something truly remarkable together!
+🌟You can reach out to me at kuriaderek@gmail.com 
+ Let's connect and collaborate on coding something truly remarkable together!
 
 <!--
 **ravine13/ravine13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
