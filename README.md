@@ -1,15 +1,16 @@
 ![Your Name](Your_Image_URL)
 
-<h1 align="center">Hi there! 👋 I'm Derick Kuria</h1>
-<h3 align="center">Aspiring Software Engineer from kenya | Passionate Learner</h3>
+<h1 align="center">Hi there! 👋 I'm Derick kuria</h1>
+<h3 align="center">Aspiring Software Engineer | Passionate Learner</h3>
 
 <img align="right" alt="coding" width="400" src="URL_To_Your_GIF_Image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[Your_GitHub_Username]&label=Profile%20views&color=0e75b6&style=flat" alt="[Your_GitHub_Username]" /> </p>
 
-- 👨‍💻 Exploring projects and learning resources at [Your_Linktr_Or_Portfolio_URL]
+- 👨‍💻 Exploring projects and learning resources at [Connect with me on LinkedIn](https://www.linkedin.com/in/ravine-derick)
 
-- ⚡ Fun fact: [Add something interesting about yourself]
+
+- ⚡ Fun fact: **am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
