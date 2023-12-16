@@ -1,4 +1,4 @@
-![Your Name](Your_Image_URL)
+![Derick Kuria](Your_Image_URL)
 
 <h1 align="center">Hi there! 👋 I'm Derick Kuria</h1>
 <h3 align="center">Aspiring Software Engineer | Passionate Learner</h3>
