@@ -13,8 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/[Your_LinkedIn_Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[Your_LinkedIn_Username]" height="30" width="40" /></a>
-<a href="https://instagram.com/[Your_Instagram_Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[Your_Instagram_Username]" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/[Your_YouTube_Channel]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="[Your_YouTube_Channel]" height="30" width="40" /></a>
+<a href="https://twitter.com/[Your_Twitter_Username]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Your_Twitter_Username]" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
