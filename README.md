@@ -1,6 +1,6 @@
 ![Your Name](Your_Image_URL)
 
-<h1 align="center">Hi there! 👋 I'm Derick kuria</h1>
+<h1 align="center">Hi there! 👋 I'm Derick Kuria</h1>
 <h3 align="center">Aspiring Software Engineer | Passionate Learner</h3>
 
 <img align="right" alt="coding" width="400" src="URL_To_Your_GIF_Image">
@@ -8,9 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=[Your_GitHub_Username]&label=Profile%20views&color=0e75b6&style=flat" alt="[Your_GitHub_Username]" /> </p>
 
 - 👨‍💻 Exploring projects and learning resources at [Connect with me on LinkedIn](https://www.linkedin.com/in/ravine-derick)
-
-
-- ⚡ Fun fact: **am funny**
+- ⚡ Fun fact: **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +18,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> [Add images/links to languages and tools you're familiar with] </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="Your_Buy_Me_A_Coffee_Link"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="[Your_Buy_Me_A_Coffee_Link]" /></a></p><br><br>
