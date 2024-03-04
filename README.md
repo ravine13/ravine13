@@ -1,8 +1,11 @@
-Hi 👋, I'm Derick kuria
-A fullstack developer from Nairobi, Kenya.
-🌱 I’m currently learning django, springboot
+👋 Hi, I’m derick kuria
 
-📫 How to reach me kuriaderek@gmail.com
+👨‍💻 Full-stack Web Dev: JavaScript, React, Python,Flask
 
-Languages and Tools:
-Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge Static Badge
+🌱 I’m currently learning django, Mongo DB, springboot
+
+📫 How to reach me kuriaderk@gmail.com
+
+🔗 www.linkedin.com/in/ravine-derick
+
+
