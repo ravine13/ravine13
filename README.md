@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning django, Mongo DB, springboot
 
-📫 How to reach me kuriaderk@gmail.com
+📫 How to reach me kuriaderek@gmail.com
 
 🔗 www.linkedin.com/in/ravine-derick
 
