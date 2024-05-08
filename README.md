@@ -2,7 +2,7 @@
 
 👨‍💻 Full-stack Web Dev: JavaScript, React, Python,Flask
 
-🌱 I’m currently learning django, Mongo DB, springboot
+🌱 I’m currently learning django, data science, springboot
 
 📫 How to reach me kuriaderek@gmail.com
 
