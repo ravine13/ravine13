@@ -21,10 +21,4 @@
 </div>
 
 
-🌱 I’m currently learning django, data analysis springboot
-
-📫 How to reach me kuriaderek@gmail.com
-
-🔗 www.linkedin.com/in/ravine-derick
-
 
