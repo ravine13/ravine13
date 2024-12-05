@@ -1,4 +1,3 @@
-
 <!--Languages & Tools --> 
 <h4 align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style=" width:30px; height:30px;" /> Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style=" width:30px; height:30px;" /> </h4>
 <div align="center"> 
@@ -17,8 +16,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" > <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" />
-   
 </div>
 
+<!-- GitHub Stats -->
+<h4 align="center">GitHub Stats</h4>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravine13&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravine13&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravine13&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-
+<!-- Code Grading -->
+<h4 align="center">Code Quality</h4>
+<div align="center">
+  <a href="https://www.codefactor.io/repository/github/ravine13">
+    <img src="https://www.codefactor.io/repository/github/ravine13/badge" alt="CodeFactor Badge" />
+  </a>
+</div>
